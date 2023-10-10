@@ -1,8 +1,21 @@
+<p align="center">
+    <h1 align="center">Nike Store</h1>
+  </a>
+</p> 
+
+## :bell: About
+A Nike Store Site created mainly to convince myself to use tailwind css instead of vanilla boring css files. I'm honestly impressed with the possibilities tailwind css gives and the speed and simplicity of it. After doing this webpage I decided to use tailwind from now on.
+
+## :wrench: Technologies Used
+- HTML
+- Tailwind CSS
+- JavaScript
+- React
+- npm
+- webpack
+- eslint
+- babel
+
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The template of the page was created by React + Vite.
